@@ -1,0 +1,28 @@
+Monopoly.java will start the game
+	will create Field
+		with number players
+	will call Field.turn() while not Field.GameEnd
+Street.java will have all the Street Objekts, even Go and Jail
+	need how monay turns stay
+	need bought
+	need Buy-Money
+	need stay the night
+	need Hypotek
+Player.java will have the players and the BANK
+	money
+	place
+	num {Rheinfolge}
+Field.java will create the field
+	2d Array ? 
+	create Streets
+	create Players
+	Constructor
+		how many palyers
+	where are the players
+	move player
+	rent place
+	buy place
+	turn street
+	turn based [escape ?]
+		end condition
+	dice roll
